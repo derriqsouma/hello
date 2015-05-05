@@ -1,0 +1,4 @@
+127.0.0.1 - - [04/May/2015:23:50:11 +0300] "GET /rtb-ad-exchange/ HTTP/1.1" 404 - http-bio-8080-exec-1 0
+127.0.0.1 - - [04/May/2015:23:50:28 +0300] "GET /Hello/ HTTP/1.1" 200 70 http-bio-8080-exec-3 1605
+127.0.0.1 - - [04/May/2015:23:50:29 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+127.0.0.1 - - [04/May/2015:23:53:15 +0300] "GET /Hello/ HTTP/1.1" 404 - http-bio-8080-exec-1 0
